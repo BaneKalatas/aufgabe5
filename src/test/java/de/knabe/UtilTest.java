@@ -1,7 +1,7 @@
 package de.knabe;
 import static org.junit.Assert.*; 
 
-public class main {
+public class UtilTest {
 	
 	
 	public void test(){
